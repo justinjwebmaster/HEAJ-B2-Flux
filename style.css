@@ -2,9 +2,13 @@
   font-family:fantasy;
 }
 
+body{
+  background-color: lightgray;
+}
+
 h1 {
   width: 100%;
   text-align:center;
 
-  color: goldenrod;
+  color: green;
 }
